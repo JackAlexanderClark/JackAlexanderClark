@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JackAlexanderClark/JackAlexanderClark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Hey,  I'm Jack. Welcome to my Github!</h1>
+
+<h2>I'm a Web Developer, currently working for VaultEA</h2>
+
