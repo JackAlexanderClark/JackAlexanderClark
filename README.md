@@ -27,7 +27,7 @@ https://jackalexanderclark.github.io/Valeries-art-gallery-/index.html
 
 <hr>
 
-<h3>2. Valerie's Art Gallery (JavaScript Guessing Game)</h3>
+<h3>2. Mystery Guessing Game (JavaScript Guessing Game)</h3>
 
 ![image](https://github.com/JackAlexanderClark/JackAlexanderClark/assets/97599832/b05cf5ec-8bfb-45c4-b889-89390c3f3670)
 
@@ -43,7 +43,7 @@ https://movie-database-project.herokuapp.com/
 
 <hr>
 
-<h3>4. Ultimate Movie Database (Django Full-Stack Application)</h3>
+<h3>4. Art Gallery of the Future (Django Full-Stack Application)</h3>
 
 ![image](https://github.com/JackAlexanderClark/JackAlexanderClark/assets/97599832/7b381dac-b3a4-4b1c-a6d4-6f9f31d680b6)
 
