@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1>Hey,  I'm Jack. Welcome to my Github!</h1>
 
-<h2>I'm a Web Developer, currently working for VaultEA</h2>
+<h2>I'm a Software Engineer currently working for MRI Software.</h2>
 
 <h1>My Portfolio of Projects:</h1>
 
