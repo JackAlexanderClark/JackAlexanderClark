@@ -43,7 +43,7 @@ https://movie-database-project.herokuapp.com/
 
 <hr>
 
-<h3>4. Ultimate Movie Database (Python/Flask Database)</h3>
+<h3>4. Ultimate Movie Database (Django Full-Stack Application)</h3>
 
 ![image](https://github.com/JackAlexanderClark/JackAlexanderClark/assets/97599832/7b381dac-b3a4-4b1c-a6d4-6f9f31d680b6)
 
