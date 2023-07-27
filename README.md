@@ -47,4 +47,4 @@ https://movie-database-project.herokuapp.com/
 
 ![image](https://github.com/JackAlexanderClark/JackAlexanderClark/assets/97599832/7b381dac-b3a4-4b1c-a6d4-6f9f31d680b6)
 
-[https://movie-database-project.herokuapp.com/](https://art-gallery-django-5b7a338cde1a.herokuapp.com/)https://art-gallery-django-5b7a338cde1a.herokuapp.com/
+https://art-gallery-django-5b7a338cde1a.herokuapp.com/
