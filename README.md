@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 
 <h2>I'm a Software Engineer currently working for MRI Software.</h2>
 
+<h2>My Tech Stack</h2>
+<ul>
+  <li>Perl</li>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>MySQL</li>
+  <li>CSS</li>
+  <li>HTML</li>
+  <li>C++</li>
+</ul>
+
 <h1>My Portfolio of Projects:</h1>
 
 <h3>1. Valerie's Art Gallery (Static HTML/CSS Site)</h3>
