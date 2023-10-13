@@ -42,7 +42,7 @@ https://jackalexanderclark.github.io/Valeries-art-gallery-/index.html
 
 ![image](https://github.com/JackAlexanderClark/JackAlexanderClark/assets/97599832/b05cf5ec-8bfb-45c4-b889-89390c3f3670)
 
-https://jackalexanderclark.github.io/Valeries-art-gallery-/index.html
+https://jackalexanderclark.github.io/mystery-guessing-game/index.html
 
 <hr>
 
