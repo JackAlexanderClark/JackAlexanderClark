@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 <h2>I'm a Software Engineer currently working for Buchanan Computing/Causeway Technologies.</h2>
 
+<h2>Laravel and Vue.js Web Developer</h2>
 <h2>Hobbysist C++ and Unreal Engine Programmer</h2>
