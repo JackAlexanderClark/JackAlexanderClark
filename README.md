@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 <h1>Hey,  I'm Jack. Welcome to my Github!</h1>
 
 <h2>I'm a Software Engineer currently working for Buchanan Computing/Causeway Technologies.</h2>
+
+<h2>Hobbysist C++ and Unreal Engine Programmer</h2>
